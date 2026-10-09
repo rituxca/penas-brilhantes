@@ -1,0 +1,9 @@
+PENAS BRILHANTES — PROTÓTIPO INICIAL
+
+Abrir: extrai o ZIP e abre index.html num navegador atualizado.
+Login de demonstração: penasbrilhantes
+Palavra-passe: mudar123
+
+Inclui dashboard, categorias de stock (papas, sementes, rações, areias, vitaminas, acessórios, animais e outros), produtos, vendas com cálculo automático e baixa de stock, despesas, pássaros com anilha/estado e exportação/importação de cópia JSON.
+
+IMPORTANTE: esta versão guarda dados apenas no navegador/dispositivo. Não está ainda publicada online e não sincroniza entre telemóveis e computadores. O login é demonstrativo e não deve proteger dados reais. O próximo passo é configurar publicação e base de dados/autenticação online usando planos gratuitos, sem criar um e-mail dedicado à loja.
